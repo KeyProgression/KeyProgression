@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Matthew Yien
+- 👀 I’m interested in making the world a better place through technology.
+- 🌱 I’m currently learning data science and Machine Learning.
+- 💞️ I’m looking to collaborate on any open source projects.
+- 📫 How to reach me matthew.yien@wsu.edu
